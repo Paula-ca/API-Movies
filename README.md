@@ -81,3 +81,6 @@ Documentación
 
 Es deseable documentar los endpoints utilizando alguna herramienta como Postman o
 Swagger.
+
+Swagger----->http://localhost:8080/swagger-ui/index.html#/
+Postman----->https://documenter.getpostman.com/view/18629048/2s8ZDeSyEg
